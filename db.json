@@ -1,0 +1,65 @@
+{
+  "competitors": [
+    {
+      "nome": "Lewis Hamilton",
+      "sexo": "M",
+      "temp": 36,
+      "peso": 73,
+      "alt": 174,
+      "id": 1
+    },
+    {
+      "nome": "Max Verstappen",
+      "sexo": "M",
+      "temp": 36,
+      "peso": 78,
+      "alt": 180,
+      "id": 2
+    },
+    {
+      "nome": "Sebastian Vettel",
+      "sexo": "M",
+      "temp": 36,
+      "peso": 62,
+      "alt": 176,
+      "id": 3
+    }
+  ],
+  "pistacorrida": [
+    {
+      "descricao": "Silverstone",
+      "id": 1
+    },
+    {
+      "descricao": "Spa-Francorchamps",
+      "id": 2
+    },
+    {
+      "descricao": "Mônaco",
+      "id": 3
+    }
+  ],
+  "historicocorrida": [
+    {
+      "datacorrida": "2022-07-09",
+      "tempogasto": "02:47",
+      "pistacorrida": "1",
+      "competidor": "1",
+      "id": 1
+    },
+    {
+      "datacorrida": "2022-05-29",
+      "tempogasto": "01:37",
+      "pistacorrida": "3",
+      "competidor": "2",
+      "id": 2
+    },
+    {
+      "datacorrida": "2021-08-28",
+      "tempogasto": "05:22",
+      "pistacorrida": "2",
+      "competidor": "3",
+      "id": 3
+    }
+  ]
+}
